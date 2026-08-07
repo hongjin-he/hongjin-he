@@ -9,7 +9,7 @@
 <p>
 <a href="mailto:hehongjinhkust0911@gmail.com"><img src="https://img.shields.io/badge/Email-hehongjinhkust0911%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/hongjinhe-hkust-edu"><img src="https://img.shields.io/badge/LinkedIn-HongJin_HE-0A66C2?style=flat-square&logo=linkedin" /></a>
-<a href="https://github.com/hongjin-he/mathmatical-framework-for-world-models-in-quant-finance"><img src="https://img.shields.io/badge/Preprint-arXiv_q--fin.MF-b31b1b?style=flat-square&logo=arxiv" /></a>
+<a href="https://github.com/hongjin-he/Mathematical-Framework-For-MicroUniverse"><img src="https://img.shields.io/badge/Preprint-arXiv_q--fin.MF-b31b1b?style=flat-square&logo=arxiv" /></a>
 </p>
 
 </div>
@@ -64,7 +64,7 @@ journey
 
 ## Projects
 
-### 🌍 [Mathematical Framework for World Models in Quant Finance](https://github.com/hongjin-he/mathmatical-framework-for-world-models-in-quant-finance)
+### 🌍 [Mathematical Framework for World Models in Quant Finance](https://github.com/hongjin-he/Mathematical-Framework-For-MicroUniverse)
 *Preprint · arXiv:q-fin.MF · July 2026 · HKUST + Stanford*
 
 The first systematic mathematical theory connecting world models to quantitative finance. Seven original theorems — no hand-waving.
