@@ -2,14 +2,13 @@
 
 <h1>HongJin HE &nbsp;何泓锦</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-principles+thinker;Mathematical+Physics+%E2%86%92+Deep+RL+%E2%86%92+Markets;GFlowNets+%C2%B7+World+Models+%C2%B7+Quant+Finance;Prove+theorems+in+the+morning%2C+ship+code+at+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-principles+thinker;Mathematical+Physics+%E2%86%92+Deep+RL+%E2%86%92+Markets;Diffusion+Models+%C2%B7+World+Models+%C2%B7+Quant+Finance;Prove+theorems+in+the+morning%2C+ship+code+at+night)](https://git.io/typing-svg)
 
 <p>HKUST RMBI+MATH+AI '29 &nbsp;·&nbsp; Stanford IHP '26</p>
 
 <p>
 <a href="mailto:hehongjinhkust0911@gmail.com"><img src="https://img.shields.io/badge/Email-hehongjinhkust0911%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/hongjinhe-hkust-edu"><img src="https://img.shields.io/badge/LinkedIn-HongJin_HE-0A66C2?style=flat-square&logo=linkedin" /></a>
-<a href="https://github.com/hongjin-he/Mathematical-Framework-For-MicroUniverse"><img src="https://img.shields.io/badge/Preprint-arXiv_q--fin.MF-b31b1b?style=flat-square&logo=arxiv" /></a>
 </p>
 
 </div>
@@ -49,7 +48,7 @@ journey
 
 <table>
 <tr>
-<td align="center" width="160"><b>🧠 Deep Learning</b><br/><sub>GFlowNets · Transformers<br/>Flow Matching · VAE</sub></td>
+<td align="center" width="160"><b>🧠 Deep Learning</b><br/><sub>Diffusion models · Transformers<br/>Flow Matching · VAE</sub></td>
 <td align="center" width="160"><b>🎮 Reinforcement Learning</b><br/><sub>Model-based RL · PPO/DDPG<br/>HJB equations · MDP</sub></td>
 <td align="center" width="160"><b>🌍 World Models</b><br/><sub>Market dynamics · E-Game-C<br/>Latent state prediction</sub></td>
 </tr>
@@ -65,9 +64,9 @@ journey
 ## Projects
 
 ### 🌍 [Mathematical Framework for World Models in Quant Finance](https://github.com/hongjin-he/Mathematical-Framework-For-MicroUniverse)
-*Preprint · arXiv:q-fin.MF · July 2026 · HKUST + Stanford*
+*Working paper · July 2026 · HKUST + Stanford IHP*
 
-The first systematic mathematical theory connecting world models to quantitative finance. Seven original theorems — no hand-waving.
+A mathematical framework connecting world models to quantitative finance. Seven original theorems — no hand-waving.
 
 ```
 E-Game-C:  x_t → Encoder (VAE) → z_t → Game Module (MFG) → z_{t+1} → Controller π* → a_t
@@ -80,10 +79,10 @@ Key result (Theorem 3): prediction error has a fundamental lower bound of `σ²_
 
 ---
 
-### 🧠 [GFlowNet Alpha Mining](https://github.com/hongjin-he/GFlowNet-Alpha-Mining)
+### 🧠 [Diffusion Alpha Mining](https://github.com/hongjin-he/diffusion-alpha-mining)
 *Independent research · PyTorch · WorldQuant BRAIN*
 
-GFlowNets don't find the best alpha. They find a *distribution* of good alphas — which is exactly what you need when the goal is a low-correlation portfolio, not a single factor.
+Diffusion models don't find the best alpha. They find a *distribution* of good alphas — which is exactly what you need when the goal is a low-correlation portfolio, not a single factor.
 
 ```
 Mean IC = 0.148   vs   random baseline ≈ 0.05   →   3× improvement
@@ -94,7 +93,7 @@ Honest caveat: no train/test split yet. Real-world IC is probably lower. The mec
 
 ---
 
-### 📊 [LLM Hallucination in Financial Disclosures](https://github.com/hongjin-he/LLM-Hallucination-FinanceNLP) *(private — under review)*
+### 📊 LLM Hallucination in Financial Disclosures *(private — under review)*
 *UROP · HKUST Business School · Prof. Tony Cho · Target: Journal of Accounting Research*
 
 5,552 U.S. firms. 50GB+ SEC filings. The finding that keeps me up at night: all tested models (GPT-3.5 through GPT-5) fabricate confident, plausible-sounding answers when the filing contains no relevant information whatsoever.
@@ -129,7 +128,7 @@ An ambitious attempt to build a global stock trading platform in one semester. F
 theory   = ["Stochastic Calculus", "Itô/Lévy Processes", "Mean-Field Games",
             "Convex Optimization", "Probability Theory", "Groupoid Algebra"]
 
-ml       = ["GFlowNets", "PPO/DDPG", "Transformers", "Flow Matching", "VAE"]
+ml       = ["Diffusion Models", "PPO/DDPG", "Transformers", "Flow Matching", "VAE"]
 
 quant    = ["Alpha Factor Design", "IC/ICIR", "Backtesting", "Order Book Dynamics"]
 
@@ -149,14 +148,7 @@ The physics training instilled one habit above all: ask *why does this equation 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hongjin-he&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjin-he&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
-
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hongjin-he&theme=github-dark-blue&hide_border=true" height="150" />
-
-<br/><br/>
 
 <sub>
 Mathematical Physics → Deep RL → Market Dynamics · HKUST × Stanford · 2026
