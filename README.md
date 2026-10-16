@@ -2,7 +2,7 @@
 
 <h1>HongJin HE &nbsp;何泓锦</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-principles+thinker;Mathematical+Physics+%E2%86%92+Deep+RL+%E2%86%92+Markets;Diffusion+Models+%C2%B7+World+Models+%C2%B7+Quant+Finance;Prove+theorems+in+the+morning%2C+ship+code+at+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-principles+thinker;Mathematical+Physics+%E2%86%92+Deep+RL+%E2%86%92+Markets;Building+MicroWorld%3A+a+world+model+of+finance;Diffusion+Models+%C2%B7+World+Models+%C2%B7+Quant+Finance;Prove+theorems+in+the+morning%2C+ship+code+at+night)](https://git.io/typing-svg)
 
 <p>HKUST RMBI+MATH+AI '29 &nbsp;·&nbsp; Stanford IHP '26</p>
 
@@ -14,6 +14,12 @@
 </div>
 
 ---
+
+## Now
+
+**Co-founder & CTO, [AlphaFlow](https://microworldmarkets.com).** We're building **MicroWorld**, a world model of finance in which every market participant is played by an LLM-driven agent standing in for a real one. We start on-chain, where every position is public: today we reconstruct real accounts and simulate how shocks cascade through forced liquidations.
+
+▶ [See the showcase](https://github.com/hongjin-he/microworld-showcase) · 3,100 real accounts · $7.8B of positions in one snapshot
 
 > *Factor models learn correlations. World models learn causation. The difference is everything.*
 
@@ -39,7 +45,7 @@ journey
       WorldQuant Research: 8: Me
     section Building
       Alpha Flow Co-founder: 9: Me
-      7 Theorems Paper: 8: Me
+      Financial World Model Theory: 8: Me
 ```
 
 ---
