@@ -8,7 +8,7 @@
 
 <p>
 <a href="mailto:hehongjinhkust0911@gmail.com"><img src="https://img.shields.io/badge/Email-hehongjinhkust0911%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
-<a href="https://www.linkedin.com/in/hongjinhe-hkust-edu"><img src="https://img.shields.io/badge/LinkedIn-HongJin_HE-0A66C2?style=flat-square&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/hongjinhe-hkust"><img src="https://img.shields.io/badge/LinkedIn-HongJin_HE-0A66C2?style=flat-square&logo=linkedin" /></a>
 </p>
 
 </div>
