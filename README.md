@@ -6,6 +6,9 @@
 
 <p>HKUST RMBI+MATH+AI '29 &nbsp;·&nbsp; Stanford IHP '26</p>
 
+<p>HongJin HE (Hongjin He, 何泓錦) is an undergraduate at HKUST researching world models, reinforcement learning and quantitative finance, and Co-Founder &amp; CTO of AlphaFlow (MicroWorld).<br/>
+Website: <a href="https://hongjin-he.github.io">hongjin-he.github.io</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/hongjinhe-hkust">LinkedIn</a></p>
+
 <p>
 <a href="mailto:hehongjinhkust0911@gmail.com"><img src="https://img.shields.io/badge/Email-hehongjinhkust0911%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/hongjinhe-hkust"><img src="https://img.shields.io/badge/LinkedIn-HongJin_HE-0A66C2?style=flat-square&logo=linkedin" /></a>
